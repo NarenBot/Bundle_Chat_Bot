@@ -1,0 +1,23 @@
+# Basic Packages:
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+ensure==1.0.2
+dill
+PyYAML
+ipykernel
+
+# Project Packages:
+google-generativeai
+langchain
+langchain_google_genai
+PyPDF2
+faiss-cpu
+chromadb
+python-dotenv
+streamlit
+
+# Initiating Setup.py:
+-e .

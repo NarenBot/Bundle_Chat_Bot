@@ -15,9 +15,9 @@ def get_requirements(file_path):
     return requirements
 
 
-PROJECT_NAME = ""
+PROJECT_NAME = "Bundle_Chat_Bot"
 VERSION = "0.0.0"
-DESCRIPTION = ""
+DESCRIPTION = "Bundle_Chat_Bot is a versatile and intelligent chatbot software."
 AUTHOR = "NarenBot"
 AUTHOR_EMAIL = "narendas10@gmail.com"
 
